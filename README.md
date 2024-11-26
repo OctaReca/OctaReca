@@ -19,4 +19,13 @@ Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.
 
 ## 📌 Tech Skills</p>
 
+✅ Lenguajes ➤ JavaScript, HTML5, CSS3.
+✅ Frontend ➤ React, Styled-Component, CSS Modules, SASS, LESS.
+✅ Backend ➤ NodeJs, ExpressJS, Postman, JWT, NPM, Multer, Clustering, Docker, NestJS.
+✅ Base de Datos ➤ MongoDB, Mongoose.
+✅ Control de Versiones ➤ Git, GitHub.
+✅ Diseño ➤ Figma, UI/UX.
+✅ Testing ➤ Testing unitarios, Testing avanzados, Mocks.
+
+
 
