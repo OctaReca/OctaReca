@@ -34,7 +34,7 @@ Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.
 ✅ Testing ➤ Testing unitarios, Testing avanzados, Mocks.
 <br>
 
-<p alingn="center">
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
@@ -71,8 +71,36 @@ Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </a>
-
 </p>
+<br></br>
 
+<p align="center">
+## 📌 ¿Qué estoy aprendiendo?</p>
+
+  ⏳ Next.JS
+  <br>
+  ⏳ Python
+  <br>
+  ⏳ Tailwind CSS
+  <br>
+  ⏳ TypeScript
+  <br>
+
+  <p align="center">
+    </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/nacho-morales/image/upload/v1683592962/nextjs-removebg-preview_1_lqlbyg.png" alt="nextjs" width="40" height="40"/> </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  </p>
+  <br><br>
+
+  <p align="center">
+    📌 Mis Proyectos
+  </p>
+  <p align="center">
+    <a href="https://github.com/OctaReca/EcommerceEcoMarket"</a>
+    <a href="https://github.com/OctaReca/proyectoFinalBackend"</a>
+    <a href="https://github.com/OctaReca/PF-ReactJS-Recabarren"</a>
+  </p>
 
 
