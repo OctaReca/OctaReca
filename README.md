@@ -100,15 +100,15 @@ Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.
 ## 📌Mis proyectos</p>
     
   <p align="center">
-    <a href="https://github.com/OctaReca/EcommerceEcoMarket"
-      <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OctaReca&repo=EcommerceEcoMarket&theme=gruvbox&hide_border=true&show_icons=true" alt="EcommerceEcoMarket">
-    </a>
-    <a href="https://github.com/OctaReca/proyectoFinalBackend"
-      <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OctaReca&repo=proyectoFinalBackend&theme=gruvbox&hide_border=true&show_icons=true" alt="proyectoFinalBackend">
-    </a>
-    <a href="https://github.com/OctaReca/PF-ReactJS-Recabarren"
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OctaReca&repo=PF-ReactJS-Recabarren&theme=gruvbox&hide_border=true&show_icons=true" alt="PF-ReactJS-Recabarren">  
-    </a>
+    <a href="https://github.com/OctaReca/EcommerceEcoMarket">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OctaReca&repo=EcommerceEcoMarket&theme=gruvbox&hide_border=true&show_icons=true" alt="EcommerceEcoMarket">
+  </a>
+  <a href="https://github.com/OctaReca/proyectoFinalBackend">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OctaReca&repo=proyectoFinalBackend&theme=gruvbox&hide_border=true&show_icons=true" alt="proyectoFinalBackend">
+  </a>
+  <a href="https://github.com/OctaReca/PF-ReactJS-Recabarren">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OctaReca&repo=PF-ReactJS-Recabarren&theme=gruvbox&hide_border=true&show_icons=true" alt="PF-ReactJS-Recabarren">
+  </a>
   </p>
 
 
