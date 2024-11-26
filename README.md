@@ -53,9 +53,6 @@ Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 </a>
-<a href="https://lesscss.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-original.svg" alt="less" width="40" height="40"/>
-</a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 </a>
