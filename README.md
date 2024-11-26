@@ -10,6 +10,13 @@ Siempre sentí un apego y fascinación por la tecnología, y solo fue cuestión 
 
 <p align="center">
 
+## 📌 ¿Cuál es mi objetivo actual?</p>
+
+Actualmente me encuentro en busca de nuevas oportunidades que me permitan probar mis habilidades, mejorarlas y aprender nuevas.
+Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.
+
+<p align="center">
+
 ## 📌 Tech Skills</p>
 
 
