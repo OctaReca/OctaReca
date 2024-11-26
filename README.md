@@ -3,5 +3,5 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=28>
 </h1>
 <p>
-  <a href="https://readme-typing-svg.herokuapp.com/demo/?duration=4500&pause=100&color=1BFF00&background=7BFF4900&lines=Octavio+Recabarren;Full-Stack+Developer;Certified+Tech+Developer+Student"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/demo/?duration=4500&pause=100&color=1BFF00&background=7BFF4900&lines=Octavio+Recabarren;Full-Stack+Developer;Certified+Tech+Developer+Student"></a>
 </p>
