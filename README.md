@@ -74,8 +74,9 @@ Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.
 </p>
 <br></br>
 
-<p align="center">
-## 📌 ¿Qué estoy aprendiendo?</p>
+<p align="center"> 
+
+## 📌¿Qué estoy aprendiendo?</p>
 
   ⏳ Next.JS
   <br>
@@ -94,9 +95,10 @@ Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.
   </p>
   <br><br>
 
-  <p align="center">
-    📌 Mis Proyectos
-  </p>
+<p align="center">
+
+## 📌Mis proyectos</p>
+    
   <p align="center">
     <a href="https://github.com/OctaReca/EcommerceEcoMarket"</a>
     <a href="https://github.com/OctaReca/proyectoFinalBackend"</a>
