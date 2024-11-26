@@ -119,8 +119,7 @@ Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.
  <p align="center">
    <a href="[https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit] 
    (https://www.linkedin.com/in/octavio-recabarren-87138a270/)">
-     <img src="https://cdn.icon- 
-     icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="Linkedin Logo" height="70" >
+     <img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="Linkedin Logo" height="70" >
   <a href="mailto:octareca@gmail.com" ><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" height="80" >
  </p>
 
