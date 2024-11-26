@@ -32,7 +32,7 @@ Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.
 ✅ Diseño ➤ Figma, UI/UX.
 <br>
 ✅ Testing ➤ Testing unitarios, Testing avanzados, Mocks.
-<br>
+<br><br>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
