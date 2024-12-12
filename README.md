@@ -123,8 +123,13 @@ Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.
  </p>
 
  ## 📌Portfolio</p>
- <a href="https://portfolio-main-izxstiw3j-octavios-projects-80d3f84d.vercel.app">
+
+ <p align="center">
+  <a href="https://github.com/OctaReca/EcommerceEcoMarket">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OctaReca&repo=Portfolio&theme=gruvbox&hide_border=true&show_icons=true" alt="Portfolio">
- </a>
+  </a>
+ </p>
+  
+ 
  
 
