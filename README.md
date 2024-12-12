@@ -85,8 +85,6 @@ Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.
   <br>
   ⏳ Python
   <br>
-  ⏳ Tailwind CSS
-  <br>
   ⏳ TypeScript
   <br>
 
