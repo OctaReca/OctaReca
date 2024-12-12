@@ -125,7 +125,7 @@ Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.
  ## 📌Portfolio</p>
 
  <p align="center">
-  <a href="https://github.com/OctaReca/EcommerceEcoMarket">
+  <a href="https://github.com/OctaReca/Portfolio">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OctaReca&repo=Portfolio&theme=gruvbox&hide_border=true&show_icons=true" alt="Portfolio">
   </a>
  </p>
