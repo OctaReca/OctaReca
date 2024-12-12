@@ -23,7 +23,7 @@ Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.
 
 ✅ Lenguajes ➤ JavaScript, HTML5, CSS3.
 <br>
-✅ Frontend ➤ React, Styled-Component, CSS Modules, SASS, LESS.
+✅ Frontend ➤ React, Styled-Component, CSS Modules, Tailwind, SASS, LESS.
 <br>
 ✅ Backend ➤ NodeJs, ExpressJS, Postman, JWT, NPM, Multer, Clustering, Docker, NestJS.
 <br>
