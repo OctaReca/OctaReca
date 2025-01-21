@@ -110,7 +110,7 @@ Estoy dispuesto a esforzarme al máximo para lograr los mejores resultados.
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OctaReca&repo=PF-ReactJS-Recabarren&theme=gruvbox&hide_border=true&show_icons=true" alt="PF-ReactJS-Recabarren">
   </a>
     <a href="https://github.com/OctaReca/App-Clima">
-    <img width="282" src="https://clima-now-eta.vercel.app/api/pin/?username=OctaReca&repo=ClimaNow&theme=gruvbox&hide_border=true&show_icons=true" alt="ClimaNow">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OctaReca&repo=ClimaNow&theme=gruvbox&hide_border=true&show_icons=true" alt="ClimaNow">
   </a>
   </p>
   <br></br>
